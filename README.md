@@ -1,4 +1,4 @@
-# aco
+# Ant Colony Optimization Script
 
 A Clojure library that uses an ant colony optimization algorithm to solve the Traveling Salesman Problem.  In the current iteration, a random set of waypoints is generated and the algorithm algorithm will conduct n tours and return a (non-convergent) shortest round trip path that touches each of the waypoints.
 
